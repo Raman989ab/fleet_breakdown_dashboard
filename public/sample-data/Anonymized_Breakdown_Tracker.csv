@@ -1,0 +1,752 @@
+sno,date,service id,operator,route,issue,type,Result
+1,2026-12-26,1615,Operator 12,Nagercoil - Chennai,Bus starting issue at the parking lot,Battery and Starting Issue,Delay
+2,2026-12-26,707,Operator 99,Visakhapatnam - Guntur,Headlights and Acceleration not working at the first boarding point,Miscelleanous,Delay
+3,2026-12-26,1604,Operator 10,Tenali - Hyderabad,Old driver issue,Staff,Delay
+4,2026-12-26,882,Operator 73,Madurai - Bangalore,Tax not paid,Miscelleanous,Delay
+5,2026-12-26,910,Operator 57,Delhi - Katra,Accident - windshield broken,Accident,Delay
+6,2026-12-26,434,Operator 55,Mumbai - Goa,Inverter Issue,Invertor,Delay
+7,2026-12-26,147,Operator 53,Delhi - Gorakhpur,Dead battery and alternate not working,Battery and Starting Issue,Delay
+8,2026-12-26,262,Operator 81,Hyderabad - Pune,Mechanical Failure,Miscelleanous,Delay
+9,2026-12-26,174,Operator 5,Amritsar - Delhi,Accident,Accident,Delay
+10,2026-12-26,690,Operator 16,Mumbai - Goa,Gearbox issue. Bus had to be cancelled,Gear Box,Cancelled
+1,2026-12-27,1924,Operator 65,Kakinada - Hyderabad,Breakdown,Miscelleanous,Delay
+2,2026-12-27,715,Operator 28,Vijayawada - Hyderabad,Operator did not arrange driver (then updated as breakdown),Staff,Cancelled
+3,2026-12-27,234,Operator 57,Manali - Delhi,Bus Air balloon burst,Suspension,Delay
+4,2026-12-27,282,Operator 81,Chennai - Coimbatore,Fuel dry - bus not starting,Fuel,Delay
+5,2026-12-27,1459,Operator 74,Tirupati - Hyderabad,Tyre puncture,Tire,Delay
+6,2026-12-27,1324,Operator 15,Indore - Mumbai,Brake issue,Brake,Delay
+7,2026-12-27,1535,Operator 65,Bhimavaram - Hyderabad,Breakdown due to mechanical ailure,Miscelleanous,Delay
+8,2026-12-27,1679,Operator 54,Nellore - Hyderabad,Breakdown due to mechanical ailure,Miscelleanous,Delay
+1,2026-12-28,1365,Operator 2,Bangalore - Eluru,Diesel tank issue,Fuel,Delay
+2,2026-12-28,1647,Operator 41,Pune - Goa,Diesel got over. Did not start. Cancelled,Fuel,Cancelled
+3,2026-12-28,821,Operator 88,Bangalore - Chennai,Driver was sleepy - so stopped the bus,Staff,Delay
+4,2026-12-28,1688,Operator 66,Pune - Nanded,Tyre puncture,Tire,Delay
+5,2026-12-28,403,Operator 81,Madurai - Bangalore,Radiator main belt cut,Radiator,Delay
+6,2026-12-28,521,Operator 83,Indore - Mumbai,Tyre puncture,Tire,Delay
+7,2026-12-28,1143,Operator 38,Hyderabad - Nellore,Gear box issue,Gear Box,Delay
+8,2026-12-28,1678,Operator 54,Hyderabad - Nellore,Gear box issue,Gear Box,Delay
+1,2026-12-29,165,Operator 10,Vijayawada - Bangalore,AC Not working,AC,Inconvenience
+2,2026-12-29,1544,Operator 31,Trichy - Bangalore,Bus stuck in mud,Miscelleanous,Delay
+3,2026-12-29,1027,Operator 93,Hyderabad - Rajahmundry,Bus Accident,Accident,Delay
+4,2026-12-29,671,Operator 39,Chennai - Madurai,Bus Accident,Accident,Delay
+1,2026-12-30,1333,Operator 93,Goa - Bangalore,Bus Accident,Accident,Delay
+2,2026-12-30,575,Operator 52,Visakhapatnam - Guntur,Bus not started at starting point. Delay,Battery and Starting Issue,Delay
+3,2026-12-30,1361,Operator 93,Hyderabad - Tenali,Bus not started at starting point. Delay,Battery and Starting Issue,Delay
+4,2026-12-30,1924,Operator 65,Kakinada - Hyderabad,Pressure pipe leakage. Resolved. Delayed,Miscelleanous,Delay
+5,2026-12-30,262,Operator 81,Hyderabad - Pune,AC failure. Fixed. Delayed,AC,Delay
+6,2026-12-30,411,Operator 39,Bangalore - Chennai,Clutch plate issue. Stopped the bus,Clutch,Cancelled
+7,2026-12-30,298,Operator 81,Visakhapatnam - Hyderabad,AC Belt cut. Ran without AC,AC,Inconvenience
+8,2026-12-30,1918,Operator 39,Chennai - Nagercoil,Left tyre lining issue. Terminated mid-way,Tire,Cancelled
+1,2026-12-31,1630,Operator 58,Hyderabad - Nellore,Mechanical Failure,Miscelleanous,Delay
+2,2026-12-31,815,Operator 103,Amritsar -Gurgaon,,Miscelleanous,Delay
+3,2026-12-31,670,Operator 39,Madurai - Chennai,AC problem,AC,Inconvenience
+4,2026-12-31,213,Operator 93,Chennai - Bangalore,Gear Box Issue,Gear Box,Delay
+1,2026-01-01,226,Operator 93,Hyderabad - Bangalore,Tyre puncture,Tire,Delay
+2,2026-01-01,390,Operator 1,Coimbatore - Chennai,Engine oil leakage,Fuel,Delay
+3,2026-01-01,475,Operator 74,Goa - Hyderabad,Not picking up speed,Acceleration,Delay
+4,2026-01-01,1335,Operator 4,Goa - Mumbai,Trre burst,Tire,Delay
+5,2026-01-01,1679,Operator 54,Nellore - Hyderabad,Mechanical Failure,Miscelleanous,Delay
+6,2026-01-01,769,Operator 7,Pune - Goa,Gear box issue,Gear Box,Delay
+7,2026-01-01,828,Operator 96,Visakhapatnam - Hyderabad,Accident,Accident,Delay
+1,2026-01-02,572,Operator 88,Madurai - Chennai,Clutch not working. Cancelled,Clutch,Cancelled
+2,2026-01-02,1734,Operator 31,Kozhikode - Bangalore,Battery Failure. Cancelled,Battery and Starting Issue,Cancelled
+3,2026-01-02,1581,Operator 73,Nellore - Bangalore,AC failure.,AC,Inconvenience
+4,2026-01-02,854,Operator 90,Delhi - Kanpur,Mechanical Failure. Alternator failure,Battery and Starting Issue,Cancelled
+5,2026-01-02,982,Operator 73,Bangalore - Belgaum,Vaccum Leakage,Miscelleanous,Delay
+6,2026-01-02,1535,Operator 65,Bhimavaram - Hyderabad,White Smoke. Issue Resolved,Miscelleanous,Delay
+7,2026-01-02,1577,Operator 73,Nellore - Bangalore,Tyre Burst. No jack,Tire,Delay
+8,2026-01-02,691,Operator 16,Goa - Mumbai,Accelerator Issue. Resolved,Acceleration,Delay
+9,2026-01-02,1092,Operator 80,Chennai - Trichy,Gear box issue,Gear Box,Delay
+10,2026-01-02,769,Operator 7,Pune - Goa,Tyre puncture,Tire,Delay
+1,2026-01-03,267,Operator 93,Vijayawada - Chennai,AC Belt struck,AC,Inconvenience
+2,2026-01-03,935,Operator 10,Vijayawada - Hyderabad,AC wiring cut (failed twice),AC,Inconvenience
+3,2026-01-03,1472,Operator 73,Mangalore - Bangalore,Smoke in the engine. Hose pipe got cut. Running without AC,AC,Inconvenience
+4,2026-01-03,355,Operator 68,Goa - Mumbai,AC issue. Ran without AC,AC,Inconvenience
+5,2026-01-03,567,Operator 12,Chennai - Bangalore,Accident. Stone thrown on bus,Accident,Delay
+6,2026-01-03,953,Operator 16,Mumbai - Indore,Steering rod broken,Miscelleanous,Delay
+7,2026-01-03,88,Operator 63,Coimbatore - Chennai,Accident,Accident,Delay
+1,2026-01-04,943,Operator 30,Hyderabad - Mumbai,Glass broken,Accident,Delay
+2,2026-01-04,1361,Operator 93,Hyderabad - Tenali,Bus starting issue at the parking lot,Battery and Starting Issue,Delay
+3,2026-01-04,1289,Operator 54,Bangalore - Vijayawada,Tyre blast,Tire,Delay
+4,2026-01-04,274,Operator 39,Bangalore - Chennai,AC issue.. AC belt cut. Ran without AC,AC,Inconvenience
+5,2026-01-04,1471,Operator 73,Bangalore - Mangalore,Smoke in the engine. Hose pipe got cut. Running without AC,AC,Inconvenience
+6,2026-01-04,435,Operator 55,Goa - Mumbai,Tyre Puncture,Tire,Delay
+7,2026-01-04,764,Operator 17,Madurai - Bangalore,RPM Issue. Service cancelled,Acceleration,Cancelled
+8,2026-01-04,521,Operator 83,Indore - Mumbai,Radiator issue.,Radiator,Delay
+1,2026-01-05,817,Operator 31,Hyderabad - Bangalore,Fan Belt issue,AC,Delay
+2,2026-01-05,767,Operator 54,Kakinada - Hyderabad,Cleanliness,Miscelleanous,Delay
+3,2026-01-05,327,Operator 83,Goa - Mumbai,Gear Box issue. Service cancelled,Gear Box,Cancelled
+4,2026-01-05,1335,Operator 4,Goa - Mumbai,Tyre puncture,Tire,Delay
+5,2026-01-05,572,Operator 88,Madurai - Chennai,Bus diesel hose cut. Cancelled,Fuel,Cancelled
+6,2026-01-05,966,Operator 93,Hyderabad - Vijayawada,AC issue. Ran without AC,AC,Inconvenience
+7,2026-01-05,965,Operator 93,Vijayawada - Hyderabad,Both rear tyre burst. Service cancelled,Tire,Cancelled
+8,2026-01-05,225,Operator 93,Bangalore - Hyderabad,AC and lights not working. Cancelled,AC,Cancelled
+9,2026-01-05,521,Operator 83,Indore - Mumbai,Accelerator issue. Bus not picking speed,Acceleration,Delay
+10,2026-01-05,964,Operator 66,Nagpur - Pune,Oil leakage issue,Fuel,Delay
+11,2026-01-05,434,Operator 55,Mumbai - Goa,Tyre puncture,Tire,Delay
+12,2026-01-05,1205,Operator 34,Chennai - Tiruchendur,AC Belt cut. Ran without AC,AC,Inconvenience
+1,2026-01-06,768,Operator 54,Hyderabad - Vijayawada,Mechanical issue,Miscelleanous,Delay
+2,2026-01-06,387,Operator 18,Chennai - Madurai,High Temp. Coolant level low,Engine,Delay
+3,2026-01-06,1206,Operator 34,Tiruchendur - Chennai,AC Belt cut,AC,Cancelled
+4,2026-01-06,1291,Operator 103,Gurgaon - Jalandhar,Pressure pipe burst.,Miscelleanous,Delay
+5,2026-01-06,1366,Operator 2,Eluru - Bangalore,Turbo pipe break down,Miscelleanous,Delay
+1,2026-01-07,963,Operator 66,Pune - Nagpur,Accident,Accident,Delay
+2,2026-01-07,326,Operator 83,Mumbai - Goa,Oil leakage issue. Cancelled,Fuel,Cancelled
+3,2026-01-07,953,Operator 16,Mumbai - Indore,Radiator issue.,Radiator,Delay
+1,2026-01-08,1577,Operator 73,Nellore - Bangalore,Bus stuck in mud. Cancelled,Miscelleanous,Cancelled
+2,2026-01-08,963,Operator 66,Pune - Nagpur,Bus overheating issue,Engine,Delay
+3,2026-01-08,543,Operator 93,Chennai - Bangalore,Steering could not be controlled. Cancelled,Miscelleanous,Cancelled
+4,2026-01-08,1463,Operator 3,Lucknow - Gurgaon,Bus tyre burst.,Tire,Delay
+5,2026-01-08,715,Operator 27,Vijayawada - Hyderabad,Driver was sleepy - so stopped the bus. Cancelled,Staff,Cancelled
+6,2026-01-08,1810,Operator 93,Hyderabad - Eluru,Radiator issue.,Radiator,Delay
+1,2026-01-09,1870,Operator 47,Bangalore - Chennai,Accident,Accident,Delay
+2,2026-01-09,822,Operator 88,Chennai - Bangalore,Pickup issue,Acceleration,Delay
+3,2026-01-09,1039,Operator 29,Bangalore - Goa,Engine issue. Cancelled,Engine,Cancelled
+4,2026-01-09,896,Operator 34,Nagercoil - Chennai,Tyre issue,Tire,Delay
+5,2026-01-09,543,Operator 93,Chennai - Bangalore,Accident. Cancelled,Accident,Cancelled
+6,2026-01-09,247,Operator 12,Coimbatore - Chennai,Tyre issue,Tire,Delay
+7,2026-01-09,711,Operator 1,Trichy - Chennai,Accident. Cancelled,Accident,Cancelled
+8,2026-01-09,275,Operator 39,Chennai - Bangalore,Turbo pipe break down,Miscelleanous,Delay
+1,2026-01-10,403,Operator 81,Madurai - Bangalore,AC Not working,AC,Inconvenience
+2,2026-01-10,956,Operator 74,Hyderabad - Vijayawada,Driver not available. Service Cancelled,Staff,Cancelled
+3,2026-01-10,690,Operator 16,Mumbai - Goa,Gear Box issue,Gear Box,Delay
+4,2026-01-10,238,Operator 64,Gorakhpur - Delhi,Gear Box issue,Gear Box,Delay
+5,2026-01-10,714,Operator 27,Hyderabad - Vijayawada,Accident,Accident,Delay
+6,2026-01-10,1850,Operator 6,Lucknow - Jaipur,Accident,Accident,Delay
+7,2026-01-10,1449,Operator 73,Mangalore - Bangalore,Right side wheel jam. Cancelled,Miscelleanous,Cancelled
+8,2026-01-10,1331,Operator 95,Nellore - Hyderabad,Passengers broke the glass,Accident,Delay
+9,2026-01-10,1032,Operator 17,Madurai - Bangalore,Engine oil got dried. Cancelled,Engine,Cancelled
+10,2026-01-10,771,Operator 74,Hyderabad - Pune,Brake oil leakage. Service could not reach last point,Brake,Partially Cancelled
+1,2026-01-11,891,Operator 93,Nagercoil - Hyderabad,Sensor issue,Sensor,Delay
+2,2026-01-11,1537,Operator 1,Thanjore - Chennai,AC issue. Ran without AC,AC,Inconvenience
+3,2026-01-11,659,Operator 74,Bangalore - Hyderabad,Accident,Accident,Delay
+4,2026-01-11,912,Operator 99,Hyderabad - Guntur,Tyre issue,Tire,Delay
+5,2026-01-11,381,Operator 5,Pune - Nagpur,Tyre issue,Tire,Delay
+6,2026-01-11,474,Operator 74,Hyderabad - Goa,Bus balloon burst. Cancelled,Suspension,Cancelled
+7,2026-01-11,983,Operator 73,Belgaum - Bangalore,Tyre issue. Cancelled,Tire,Cancelled
+1,2026-01-12,1019,Operator 99,Vijayawada - Tirupati,"Full party booking, Bus arrived late",Miscelleanous,Delay
+2,2026-01-12,1355,Operator 99,Vijayawada - Tirupati,"Full party booking, Bus arrived late",Miscelleanous,Delay
+3,2026-01-12,218,Operator 77,Bangalore - Chennai,Bus tyre puncture at parking lot.,Tire,Delay
+4,2026-01-12,1289,Operator 54,Bangalore - Vijayawada,Accident,Accident,Delay
+5,2026-01-12,1365,Operator 2,Bangalore - Eluru,AC Dynamo issue. Battery down. Ran without AC. Anther breakdown. Cancelled,Battery and Starting Issue,Cancelled
+6,2026-01-12,1535,Operator 65,Bhimavaram - Hyderabad,Pickup issue. Cancelled,Acceleration,Cancelled
+7,2026-01-12,1885,Operator 36,Ahmedabad - Pune,Gear lever issue.,Gear Box,Delay
+8,2026-01-12,970,Operator 66,Nagpur - Pune,Accident,Accident,Delay
+9,2026-01-12,1384,Operator 45,Nagercoil - Chennai,AC Failure. Service cancelled. Passengers shifted,AC,Cancelled
+10,2026-01-12,326,Operator 83,Mumbai - Goa,Tyre burst.,Tire,Delay
+1,2026-01-13,767,Operator 37,Vijayawada - Hyderabad,Gear Box issue. Cancelled,Gear Box,Cancelled
+2,2026-01-13,1567,Operator 93,Bangalore - Chennai,Driver level issue. Cancelled,Staff,Cancelled
+3,2026-01-13,1296,Operator 98,Chennai - Madurai,AC Not working. Ran without AC,AC,Inconvenience
+4,2026-01-13,209,Operator 6,Delhi - Varanasi,Passenger trouble,Miscelleanous,Delay
+5,2026-01-13,1555,Operator 35,Bangalore - Pondichery,Accident,Accident,Delay
+6,2026-01-13,1032,Operator 17,Madurai - Bangalore,Oil Leakage & other oil issues. Cancelled,Fuel,Cancelled
+7,2026-01-13,275,Operator 39,Chennai - Bangalore,Bearing issue. Could not reach destination,Miscelleanous,Partially Cancelled
+1,2026-01-14,1675,Operator 1,Ernakulam - Chennai,Accident,Accident,Delay
+2,2026-01-14,1175,Operator 47,Madurai - Bangalore,Accident,Accident,Delay
+3,2026-01-14,1543,Operator 31,Bangalore - Trichy,Accident,Accident,Delay
+4,2026-01-14,172,Operator 15,Kanpur - Delhi,Cluch & Gear Box issue. Cancelled,Gear Box,Cancelled
+5,2026-01-14,982,Operator 73,Bangalore - Belgaum,High Temp. Cancelled,Engine,Cancelled
+6,2026-01-14,771,Operator 74,Hyderabad - Pune,Gear Box Issue. Cancelled,Gear Box,Cancelled
+7,2026-01-14,286,Operator 49,Pune - Bangalore,Tyre Burst,Tire,Delay
+8,2026-01-14,230,Operator 99,Guntur - Hyderabad,Tyre puncture,Tire,Delay
+1,2026-01-15,177,Operator 20,Pathankot - Delhi,Accident,Accident,Delay
+2,2026-01-15,813,Operator 57,Delhi - Jalandhar,Not picking up speed,Acceleration,Delay
+3,2026-01-15,1909,Operator 84,Nellore - Bangalore,Driver not avalable. Cancelled,Staff,Cancelled
+1,2026-01-16,1290,Operator 54,Vijayawada - Bangalore,Engine problem. Cancelled,Engine,Cancelled
+2,2026-01-16,186,Operator 15,Delhi - Lucknow,Breakdown.Stearing Rod issue. Alternate arranged,Miscelleanous,Cancelled
+3,2026-01-16,1363,Operator 99,Hyderabad - Tenali,Accident,Accident,Delay
+4,2026-01-16,1323,Operator 15,Mumbai - Indore,Accident,Accident,Delay
+5,2026-01-16,1152,Operator 103,Delhi - Katra,Tyre burst,Tire,Delay
+6,2026-01-16,1184,Operator 41,Delhi - Indore,Front Air balloon problem,Suspension,Delay
+7,2026-01-16,490,Operator 41,Pune - Goa,Loose leveling rod,Suspension,Delay
+8,2026-01-16,1545,Operator 27,Vijayawada - Hyderabad,Pickup issue. Operator arranged an alternate,Acceleration,Cancelled
+9,2026-01-16,776,Operator 88,Hyderabad - Chennai,Accident. Cancelled,Accident,Cancelled
+1,2026-01-17,1032,Operator 17,Madurai - Bangalore,Bus did not turn up. Cancelled,Miscelleanous,Cancelled
+2,2026-01-17,1617,Operator 94,Ernakulam - Bangalore,AC Failure. Didn't allow to board some passengers.,AC,Partially Cancelled
+3,2026-01-17,1153,Operator 103,Katra - Delhi,Tyre burst,Tire,Delay
+4,2026-01-17,786,Operator 10,Vijayawada - Bangalore,Tyre puncture,Tire,Delay
+5,2026-01-17,810,Operator 81,Hyderabad - Bangalore,Vacuum Pump issue. Cancelled,Engine,Cancelled
+6,2026-01-17,965,Operator 93,Vijayawada - Hyderabad,AC Not working. Ran without AC,AC,Inconvenience
+7,2026-01-17,147,Operator 53,Dehi - Gorakhpur,Accident. Cancelled.,Accident,Cancelled
+8,2026-01-17,1535,Operator 65,Bhimavaram - Hyderabad,Accident,Accident,Delay
+9,2026-01-17,715,Operator 27,Vijayawada - Hyderabad,Brakes not working. Cancelled.,Brake,Cancelled
+10,2026-01-17,336,Operator 72,Mumbai - Indore,Accelerator not working. Delayed,Acceleration,Delay
+11,2026-01-17,375,Operator 15,Pune - Indore,Speed Issue. Passenger shifted to alternate,Acceleration,Cancelled
+12,2026-01-17,250,Operator 39,Madurai - Chennai,AC Failure.,AC,Inconvenience
+1,2026-01-18,1290,Operator 54,Vijayawada - Bangalore,Invertor Issue. Charging points not working,Invertor,Inconvenience
+2,2026-01-18,230,Operator 99,Guntur - Hyderabad,Gear Box issue. Cancelled,Gear Box,Cancelled
+3,2026-01-18,1678,Operator 27,Hyderabad - Nellore,Gear Box issue. Cancelled,Gear Box,Cancelled
+4,2026-01-18,786,Operator 10,Vijayawada - Bangalore,Staff fight between cleaner and passenger,Staff,Delay
+5,2026-01-18,1404,Operator 36,Pune - Ahmedabad,Accident,Accident,Delay
+6,2026-01-18,434,Operator 55,Mumbai - Goa,Tyre puncture,Tire,Delay
+7,2026-01-18,935,Operator 10,Vijayawada - Bangalore,Lights not working. Resolved. Delayed,Invertor,Delay
+8,2026-01-18,1448,Operator 73,Bangalore - Mangalore,Hose pipe issue. Cancelled,Engine,Cancelled
+9,2026-01-18,1567,Operator 93,Bangalore - Chennai,Drunk driver,Staff,Delay
+10,2026-01-18,1679,Operator 27,Nellore - Hyderabad,Pickup issue. Arranged van drop-off,Acceleration,Partially Cancelled
+11,2026-01-18,715,Operator 54,Vijayawada - Hyderabad,Accelerator issue. Cancelled,Acceleration,Cancelled
+1,2026-01-19,1351,Operator 94,Trichy - Bangalore,AC Belt failure,AC,Inconvenience
+2,2026-01-19,289,Operator 101,Bangalore - Nagercoil,Tyre burst,Tire,Delay
+3,2026-01-19,540,Operator 93,Vijayawada - Chennai,Late arrival (?),Miscelleanous,Delay
+4,2026-01-19,1808,Operator 93,Vijayawada - Hyderabad,Bus starting issue at the parking lot. Cancelled,Battery and Starting Issue,Cancelled
+5,2026-01-19,1277,Operator 51,Lucknow - Gurgaon,Air pressure leakage. Cancelled,Acceleration,Cancelled
+6,2026-01-19,326,Operator 83,Mumbai - Goa,Heat from the liner.,Engine,Delay
+7,2026-01-19,1351,Operator 94,Trichy - Bangalore,AC Cooling issue. Ran without AC,AC,Inconvenience
+8,2026-01-19,1502,Operator 94,Bangalore - Trichy,Accident,Accident,Delay
+9,2026-01-19,543,Operator 93,Chennai - Bangalore,Bus tyre burst.,Tire,Delay
+1,2026-01-20,1599,Operator 2,Bangalore - Coimbatore,Accident. Cancelled,Accident,Cancelled
+2,2026-01-20,1402,Operator 93,Vishakhapatnam - Hyderabad,Accident. Cancelled,Accident,Cancelled
+3,2026-01-20,981,Operator 74,Tirupati - Hyderabad,Vaccum Leakage. Cancelled,Engine,Cancelled
+4,2026-01-20,815,Operator 103,Amritsar - Gurgaon,Accident,Accident,Delay
+5,2026-01-20,895,Operator 34,Chennai -Nagercoil,Vaccum Leakage. Cancelled,Engine,Cancelled
+6,2026-01-20,1192,Operator 81,Hyderabad - Guntur,Driver unavilability. Ran late,Staff,Delay
+7,2026-01-20,966,Operator 93,Hyderabad - Vijayawada,Air Leakage.,Engine,Delay
+8,2026-01-20,828,Operator 97,Vishakhapatnam - Hyderabad,AC issue. AC bed bolts issue,AC,Inconvenience
+9,2026-01-20,810,Operator 81,Hyderabad - Bangalore,AC issue. Ran without AC,AC,Inconvenience
+10,2026-01-20,974,Operator 66,Pune - Hyderabad,Accident. Cancelled,Accident,Cancelled
+11,2026-01-20,417,Operator 66,Pune - Goa,Tyre puncture,Tire,Delay
+1,2026-01-21,932,Operator 79,Vijayawada - Bangalore,Breakdown (?) Alternate arranged.,Miscelleanous,Cancelled
+2,2026-01-21,488,Operator 20,Delhi - Kanpur,Mechanical issue (?),Miscelleanous,Delay
+3,2026-01-21,1361,Operator 93,Hyderabad - Tenali,Breakdown (?). Cancelled,Miscelleanous,Cancelled
+4,2026-01-21,1559,Operator 6,Gurgaon - Gorakhpur,Air suspension issue. Alternate arranged,Suspension,Cancelled
+5,2026-01-21,450,Operator 26,Chennai - Coimbatore,Accident,Accident,Delay
+6,2026-01-21,374,Operator 57,Katra - Delhi,Bus not starting.,Battery and Starting Issue,Delay
+7,2026-01-21,327,Operator 83,Goa - Mumbai,Accident,Accident,Delay
+8,2026-01-21,772,Operator 74,Pune - Hyderabad,Breakdown. Cancelled. All passengers went by Metro,Miscelleanous,Partially Cancelled
+1,2026-01-22,809,Operator 81,Bangalore - Hyderabad,2 Hours Delayed Bus from starting point. AC work. Cancelled,AC,Cancelled
+2,2026-01-22,1092,Operator 80,Chennai - Trichy,"Clutch not working. Alternate provided (Seater bus, non AC)",Clutch,Alternate
+3,2026-01-22,1169,Operator 94,Nellore - Bangalore,Tyre Nuts broken. Ran delayed,Tire,Delay
+4,2026-01-22,280,Operator 26,Chennai - Coimbatore,AC Not working. Delayed,AC,Delay
+5,2026-01-22,491,Operator 41,Goa - Pune,Speed Issue.,Acceleration,Delay
+6,2026-01-22,1335,Operator 4,Goa - Mumbai,Gear box issue. Cancelled,Gear Box,Cancelled
+7,2026-01-22,1361,Operator 93,Hyderabad - Tenali,Driver payment issue,Staff,Delay
+8,2026-01-22,1473,Operator 74,Hyderabad - Eluru,Drunk driver and cleaner. Ran delayed,Staff,Delay
+9,2026-01-22,1869,Operator 12,Bangalore - Chennai,AC issue. Cancelled midway,AC,Partially Cancelled
+10,2026-01-22,262,Operator 81,Hyderabad - Pune,Fuse issue. Delayed,Engine,Delay
+11,2026-01-22,276,Operator 73,Ernakulam - Bangalore,Speed Issue - delayed,Acceleration,Delay
+12,2026-01-22,769,Operator 66,Pune - Goa,Tyre puncture,Tire,Delay
+13,2026-01-22,376,Operator 15,Indore - Pune,Clutch plate issue. Stopped the bus,Clutch,Cancelled
+14,2026-01-22,1414,Operator 78,Bangalore - Vijayawada,Clutch issue. Cancelled,Clutch,Cancelled
+1,2026-01-23,1544,Operator 31,Trichy - Bangalore,Bus AC Belt issue,AC,Inconvenience
+2,2026-01-24,1402,Operator 46,Vishakhapatnam - Hyderabad,AC Belt. Ran without AC. 2.5 hours delay,AC,Inconvenience
+3,2026-01-24,790,Operator 1,Tirumangalam - Chennai,Hose clamp issue . Ran delayed,Engine,Delay
+4,2026-01-24,822,Operator 88,Chennai - Bangalore,Sensor problem. Cancelled,Sensor,Cancelled
+5,2026-01-24,965,Operator 93,Vijayawada - Bangalore,Electrical wiring issue. Smoke. Cancelled,Invertor,Cancelled
+6,2026-01-24,772,Operator 74,Pune - Hyderabad,Pickup issue,Acceleration,Delay
+1,2026-01-25,280,Operator 26,Chennai - Coimbatore,Clutch problem. Cancelled,Clutch,Cancelled
+2,2026-01-25,213,Operator 93,Chennai - Bangalore,AC Failure. 1h 50 mins delay,AC,Inconvenience
+3,2026-01-25,435,Operator 55,Goa - Mumbai,Tyre puncture. Canceled,Tire,Cancelled
+4,2026-01-25,1281,Operator 81,Hyderabad - Tirupati,Tyre issue. 1 hr 30 mins delay,Tire,Delay
+5,2026-01-25,1555,Operator 47,Bangalore - Pondichery,Wiper not working.,Miscelleanous,Delay
+6,2026-01-25,1135,Operator 34,Chennai - Trichy,Bus not starting.,Battery and Starting Issue,Delay
+7,2026-01-25,733,Operator 66,Goa - Pune,AC issue. Ran without AC,AC,Inconvenience
+8,2026-01-25,253,Operator 31,Pondichery - Bangalore,AC issue. Ran without AC,AC,Inconvenience
+9,2026-01-25,881,Operator 73,Bangalore - Madurai,Tyre puncture,Tire,Delay
+10,2026-01-25,663,Operator 39,Bangalore - Chennai,Charging points not working. Partially cancelled,Invertor,Partially Cancelled
+11,2026-01-25,1471,Operator 73,Bangalore - Mangalore,Tyre Burst. Delay,Tire,Delay
+12,2026-01-25,1543,Operator 31,Bangalore - Tiruchirapalli,AC issue. Ran without AC,AC,Inconvenience
+1,2026-01-26,1544,Operator 31,Trichy - Bangalore,AC issue,AC,Inconvenience
+2,2026-01-26,1448,Operator 73,Bangalore - Mangalore,Bus starting problem. AC not working. Cancelled,AC,Cancelled
+3,2026-01-26,1870,Operator 47,Bangalore - Chennai,Washroom water connection,Miscelleanous,Inconvenience
+4,2026-01-26,252,Operator 31,Bangalore - Pondichery,AC issue. Ran without AC,AC,Inconvenience
+5,2026-01-26,1098,Operator 60,Delhi - Azamgarh,Accident. Cancelled,Accident,Cancelled
+6,2026-01-26,1384,Operator 45,Nagercoil - Chennai,Clutch not working. No response from operator. More than 3 hours delay. Cancelled,Clutch,Cancelled
+7,2026-01-26,540,Operator 93,Vijayawada - Chennai,Tyre puncture,Tire,Delay
+8,2026-01-26,828,Operator 97,Vishakhapatnam - Hyderabad,Bus turbo clamp issue. Delayed,Acceleration,Delay
+9,2026-01-26,1572,Operator 7,Pune - Amravati,Tyre puncture. Delayed,Tire,Delay
+10,2026-01-26,376,Operator 15,Indore - Pune,Brake liner damaged. Cancelled,Brake,Cancelled
+11,2026-01-26,1471,Operator 73,Bangalore - Mangalore,Radiator issue.,Radiator,Delay
+1,2026-01-27,729,Operator 45,Tirumangalam - Chennai,Bus at service center. Delayed. Cancelled,Miscelleanous,Cancelled
+2,2026-01-27,896,Operator 34,Nagercoil - Chennai,Bus vaccum problem. 1.5 hrs Delayed,Acceleration,Delay
+3,2026-01-27,804,Operator 21,Chennai - Bangalore,Tyre puncture,Tire,Delay
+4,2026-01-27,501,Operator 93,Hyderabad - Goa,Gear Box issue. Cancelled,Gear Box,Cancelled
+5,2026-01-27,891,Operator 93,Bangalore - Hyderabad,Tyre puncture. 40 mins delay,Tire,Delay
+6,2026-01-27,1543,Operator 31,Bangalore - Trichy,AC issue.,AC,Inconvenience
+7,2026-01-27,1733,Operator 31,Bangalore - Kozikode,Tyre puncture,Tire,Delay
+8,2026-01-27,407,Operator 70,Bangalore - Goa,Tyre problems,Tire,Delay
+9,2026-01-27,200,Operator 99,Guntur - Hyderabad,Tyre puncture. 2 hr 30 mins delay,Tire,Delay
+10,2026-01-27,450,Operator 26,Chennai - Coimbatore,Tyre puncture. 30 mins delay,Tire,Delay
+11,2026-01-27,711,Operator 1,Trichy - Chennai,AC Belt cut. Ran without AC,AC,Inconvenience
+12,2026-01-27,1306,Operator 6,Gurgaon - Kanpur,Hub brake issue. Cancelled,Brake,Cancelled
+13,2026-01-27,451,Operator 26,Coimbatore - Chennai,Clutch not working. Cancelled,Clutch,Cancelled
+1,2026-01-28,1733,Operator 31,Bangalore - Kozhikode,Brake problem. Delayed,Brake,Delay
+2,2026-01-28,1616,Operator 94,Bangalore - Ernakulam,Bus tyre burst.,Tire,Delay
+3,2026-01-28,1888,Operator 51,Gurgaon - Lucknow,Not able to build air pressure. Cancelled,Acceleration,Cancelled
+4,2026-01-28,1458,Operator 74,Hyderabad - Tirupati,Bus headlights not working. Alternate bus,Miscelleanous,Cancelled
+5,2026-01-28,1694,Operator 41,Goa - Pune,Shock absorber issue. Ran without AC,Suspension,Inconvenience
+6,2026-01-28,821,Operator 88,Bangalore - Chennai,Heavy sound from engine. Moved,Engine,Inconvenience
+7,2026-01-28,1366,Operator 2,Eluru - Bangalore,Vaccum issue. Cancelled,Acceleration,Cancelled
+8,2026-01-28,1350,Operator 94,Bangalore - Trichy,AC issue. Ran without AC,AC,Inconvenience
+1,2026-01-29,1318,Operator 41,Dehradun - Gurgaon,Bus main belt issue. Cancelled,Engine,Cancelled
+2,2026-01-29,1405,Operator 103,Gurgaon - Jalandhar,Unable to build air pressure. Cancelled,Acceleration,Cancelled
+3,2026-01-29,1491,Operator 7,Latur - Pune,Tyre Issue,Tire,Delay
+4,2026-01-29,1966,Operator 65,Gudivada - Hyderabad,Accident,Accident,Delay
+5,2026-01-29,1174,Operator 47,Bangalore - Madurai,Accident. Cancelled,Accident,Cancelled
+6,2026-01-29,776,Operator 88,Hyderabad - Chennai,Gear Box Problem. Partially cancelled,Gear Box,Partially Cancelled
+1,2026-01-30,1567,Operator 93,Bangalore - Chennai,Accident at starting point. Delayed,Accident,Delay
+2,2026-01-30,1509,Operator 10,Hyderabad - Eluru,Tyre puncture,Tire,Delay
+3,2026-01-30,1092,Operator 80,Chennai - Trichy,Break issue. Delayed,Brake,Delay
+4,2026-01-30,426,Operator 73,Hyderabad - Bangalore,Accelerator issue. Cancelled,Acceleration,Cancelled
+5,2026-01-30,686,Operator 81,Hyderabad - Bangalore,Tyre puncture,Tire,Delay
+1,2026-01-31,212,Operator 93,Bangalore - Chennai,Dynamo issue. Cancelled,Suspension,Cancelled
+2,2026-01-31,1396,Operator 61,Chennai - Vijayawada,Sensor issue. Cancelled,Sensor,Cancelled
+3,2026-01-31,1733,Operator 31,Bangalore - Vijayawada,AC Issue. Servce cancelled,AC,Cancelled
+4,2026-01-31,1471,Operator 73,Bangalore - Mangalore,Tyre puncture,Tire,Delay
+5,2026-01-31,1734,Operator 31,Kozhikode - Bangalore,Tyre puncture,Tire,Delay
+6,2026-01-31,230,Operator 99,Guntur - Hyderabad,Breakdown (?). Cancelled,Miscelleanous,Cancelled
+7,2026-01-31,1857,Operator 93,Pune - Hyderabad,Accident,Accident,Delay
+8,2026-01-31,1576,Operator 73,Bangalore - Nellore,Tyre burst,Tire,Delay
+9,2026-01-31,1144,Operator 27,Nellore - Hyderabad,Tyre burst. Fire. Cancelled,Tire,Cancelled
+10,2026-01-31,545,Operator 83,Mumbai - Indore,Overheating issue,Engine,Delay
+1,2026-02-01,474,Operator 74,Hyderabad - Goa,AC Belt,AC,
+2,2026-02-01,686,Operator 81,Hyderabad - Bangalore,Accident,Accident,Cancelled
+3,2026-02-01,1599,Operator 2,Bangalore - Coimbatore,Accident,Accident,Delay
+4,2026-02-01,1134,Operator 34,Trichy - Chennai,AC issue,AC,Inconvenience
+5,2026-02-01,974,Operator 46,Pune - Hyderabad,Clutch issue,Clutch,Delay
+6,2026-02-01,475,Operator 74,Goa - Hyderabad,Suspension issue.,Suspension,Cancelled
+7,2026-02-01,1324,Operator 15,Indore - Mumbai,Accident,Accident,Delay
+8,2026-02-01,481,Operator 89,Chennai - Erode,Tire puncture,Tire,Delay
+9,2026-02-01,388,Operator 18,Madurai - Chennai,Accident,Accident,Delay
+10,2026-02-01,1706,Operator 33,Tirunelveli - Chennai,Accident,Accident,Cancelled
+1,2026-02-02,182,Operator 63,Chennai - Coimbatore,Battery isue at first boarding point.,Battery and Starting Issue,Delay
+2,2026-02-02,475,Operator 74,Goa - Hyderabad,AC issue due to alternator,AC,Inconvenience
+3,2026-02-02,1543,Operator 31,Bangalore - Trichy,Fuel refilling,Fuel,Delay
+1,2026-02-03,1872,Operator 31,Bangalore - Nellore,Dynamo issue. Provided an alternate,Suspension,Delay
+2,2026-02-03,673,Operator 74,Hyderabad - Guntur,Pickup isue. Provided an alternate,Acceleration,Cancelled
+3,2026-02-03,167,Operator 27,Hyderabad - Mumbai,Windshield glass broke. Cancelled,Miscelleanous,Cancelled
+4,2026-02-03,1088,Operator 75,Delhi - Gorakhpur,Coupler issue,Miscelleanous,Delay
+5,2026-02-03,1384,Operator 45,Nagercoil - Chennai,Tire puncture,Tire,Delay
+6,2026-02-03,360,Operator 97,Kakinada - Hyderabad,AC issue. Ran without AC,AC,Inconvenience
+7,2026-02-03,715,Operator 28,Vijayawada - Hyderabad,Brake issue. Cancelled,Brake,Cancelled
+8,2026-02-03,280,Operator 26,Chennai - Coimbatore,Tire puncture,Tire,Delay
+9,2026-02-03,789,Operator 1,Chennai - Trumangalam,Turbo hose clamp burst,Suspension,Delay
+1,2026-02-04,827,Operator 27,Hyderabad - Vishakhapatnam,AC issue,AC,Delay
+2,2026-02-04,1448,Operator 73,Bangalore - Mangalore,Bus Siezed,Miscelleanous,Cancelled
+3,2026-02-04,964,Operator 66,Nagpur - Pune,Pickup issue,Acceleration,Cancelled
+4,2026-02-04,719,Operator 39,Vijayawada - Chennai,Accident,Accident,Delay
+1,2026-02-05,810,Operator 81,Hyderabad - Bangalore,Pickup issue,Acceleration,Delay
+2,2026-02-05,1374,Operator 69,Madurai - Chennai,Bus Belt was loose,Miscelleanous,Delay
+3,2026-02-05,568,Operator 12,Bangalore - Chennai,Bus Bed bugs,Miscelleanous,Cancelled
+4,2026-02-05,956,Operator 74,Hyderabad - Vijayawada,Driver unavailability,Staff,Delay
+5,2026-02-05,1807,Operator 93,Hyderabad - Vijayawada,Delay due to staff miscommunication,Staff,Delay
+1,2026-02-06,1899,Operator 47,Nagercoil - Bangalore,Sensor issue,Sensor,Cancelled
+2,2026-02-06,1488,Operator 25,Pune - Nagpur,Showroom (?),,
+3,2026-02-06,1031,Operator 17,Bangalore - Madurai,Engine water pipe broken.,Engine,Cancelled
+4,2026-02-06,956,Operator 74,Hyderabad - Vijayawada,AC Issue. Did not come back from garage.,AC,Cancelled
+5,2026-02-06,1678,Operator 27,Hyderabad - Nellore,Starting issue at the parking lot,Battery and Starting Issue,Delay
+6,2026-02-06,1851,Operator 6,Jaipur - Lucknow,Police issue. Bus impounded,Miscelleanous,Cancelled
+7,2026-02-06,1870,Operator 47,Bangalore - Chennai,Accident,Accident,Delay
+8,2026-02-06,1335,Operator 4,Goa - Mumbai,Pickup issue. Resolved,Acceleration,Delay
+9,2026-02-06,790,Operator 1,Tirumangalam - Chennai,Tire puncture,Tire,Delay
+10,2026-02-06,953,Operator 16,Mumbai - Indore,Overheating. Hence running on low speed. 3 hr delay,Acceleration,Delay
+11,2026-02-06,732,Operator 66,Pune - Goa,Tire puncture,Tire,Delay
+12,2026-02-06,672,Operator 74,Guntur - Hyderabad,Tire puncture. Partially cancelled,Tire,Partially Cancelled
+13,2026-02-06,227,Operator 99,Hyderabad - Guntur,Smoke from engine. Bus burnt.,Engine,Cancelled
+14,2026-02-06,409,Operator 41,Delhi - Gorakhpur,Bus alternator completely burnt.,Alternator,Cancelled
+1,2026-02-07,1537,Operator 1,Thanjavur - Chennai,AC issue. Resolved.,AC,Delay
+2,2026-02-07,904,Operator 5,Delhi - Amritsar,Brakes became tight.,Brake,Cancelled
+3,2026-02-07,1088,Operator 75,Delhi - Gorakhpur,Bus not acceperating,Acceleration,Delay
+4,2026-02-07,1296,Operator 98,Chennai - Madurai,Accident,Accident,Delay
+1,2026-02-08,698,Operator 10,Vijayawada - Bangalore,Diesel pipe cut,Fuel,Cancelled
+2,2026-02-08,1874,Operator 94,Bangalore - Chennai,All lights turned off.,Invertor,Inconvenience
+3,2026-02-08,1887,Operator 47,Trichy - Bangalore,Charging points not working.,Invertor,Inconvenience
+4,2026-02-08,1405,Operator 103,Gurgaon - Jalandhar,Clutch issue,Clutch,Delay
+5,2026-02-08,148,Operator 53,Gorakhpur - Delhi,Balloon burst,Suspension,Cancelled
+6,2026-02-08,1546,Operator 74,Hyderabad - Bhimavaram,Accident,Accident,Delay
+7,2026-02-08,388,Operator 18,Madurai - Chennai,Radiator issue.,Radiator,Delay
+8,2026-02-08,403,Operator 81,Madurai - Bangalore,Pickup issue,Acceleration,Cancelled
+9,2026-02-08,348,Operator 63,Coimbatore - Chennai,Turbo belt cut,Acceleration,Cancelled
+10,2026-02-08,490,Operator 41,Pune - Goa,Tire puncture,Tire,Delay
+11,2026-02-08,1863,Operator 74,Eluru - Hyderabad,Tire drum wheel geeting stuck,Tire,Partially Cancelled
+12,2026-02-08,983,Operator 73,Belgaum - Bangalore,Bus battery burnt,Battery and Starting Issue,Cancelled
+13,2026-02-08,782,Operator 88,Hyderabad - Chennai,Gear box problem.,Gear Box,Cancelled
+14,2026-02-08,1870,Operator 47,Bangalore - Chennai,Brake issue,Brake,Cancelled
+1,2026-02-09,1734,Operator 93,Kozhikode - Bangalore,"Gear Box, Brakes, etc.",Gear Box,Cancelled
+2,2026-02-09,1414,Operator 78,Bangalore - Vijayawada,Tax issue,Miscelleanous,Delay
+3,2026-02-09,545,Operator 83,Mumbai - Indore,Engine Belt Issue,Engine,Delay
+4,2026-02-09,1490,Operator 7,Pune - Latur,Air trapped in diesel line,Fuel,Cancelled
+5,2026-02-09,1528,Operator 15,,Bus Accelerator,Acceleration,Delay
+1,2026-02-10,405,Operator 50,Delhi Amritsar,Technical Issue (?),,
+2,2026-02-10,1089,Operator 75,Gorakhpur - Delhi,Improper mixing of AdBlue & Diesel,Fuel,Cancelled
+3,2026-02-10,347,Operator 63,Chennai - Coimbatore,Tire puncture,Tire,Delay
+4,2026-02-10,373,Operator 57,Delhi - Katra,Acceleration,Acceleration,Cancelled
+5,2026-02-10,1934,Operator 93,Kozhikode - Bangalore,Tire Issue,Tire,Cancelled
+6,2026-02-10,1673,Operator 40,Machalipatnam - Hyderabad,Two tyre burst. Only one stepnie,Tire,Cancelled
+7,2026-02-10,253,Operator 31,Pondichery - Bangalore,Driver feeling sleepy. Slept,Staff,Delay
+8,2026-02-10,725,Operator 1,Chennai Bangalore,No helper. So driver did not do dropping.,Staff,Inconvenience
+9,2026-02-10,709,Operator 74,Tirupati - Hyderabad,Accident,Accident,Cancelled
+1,2026-02-11,425,Operator 73,Bangalore Hyderabad,Tax issue,Miscelleanous,Delay
+2,2026-02-11,1540,Operator 27,Hyderabad - Vijayawada,Bus breakdown (?),,Alternate
+3,2026-02-11,1885,Operator 36,Ahmedabad - Pune,Fuse issue. Delayed,Engine,Delay
+4,2026-02-11,539,Operator 93,Chennai - Vijayawada,AC issue. Ran without AC,AC,Inconvenience
+5,2026-02-11,209,Operator 6,Delhi - Varanasi,Alternator issue,Alternator,Delay
+6,2026-02-11,88,Operator 63,Coimbatore - Chennai,Sensor issue,Sensor,Cancelled
+7,2026-02-11,1250,Operator 12,Vijayawada - Chennai,AC Belt cut,AC,Cancelled
+1,2026-02-12,106,Operator 12,Chennai - Bangalore,Tyre puncture,Tire,Delay
+2,2026-02-12,172,Operator 15,Kanpur - Delhi,Rear brake spring broke,Brake,Cancelled
+3,2026-02-12,461,Operator 12,Bangalore - Chennai,AC issue.,AC,Cancelled
+1,2026-02-13,1542,Operator 73,Pondichery - Bangalore,Smoke in engine,Engine,Cancelled
+2,2026-02-13,580,Operator 88,Coimbatore - Chennai,Diesel fill. Bus steering locked,Miscelleanous,Cancelled
+3,2026-02-13,946,Operator 40,Mumbai - Hyderabad,Accident,Accident,Cancelled
+1,2026-02-14,1734,Operator 31,Kozhikode - Bangalore,Tire puncture,Tire,Delay
+2,2026-02-14,225,Operator 81,Bangalore - Hyderabad,Driver fought with an auto driver,Staff,Delay
+3,2026-02-14,896,Operator 34,Nagercoil - Chennai,Gear box issue,Gear Box,Cancelled
+4,2026-02-14,575,Operator 99,Vishakhapatnam - Guntur,AC Belt issue,AC,Delay
+5,2026-02-14,185,Operator 93,Chennai - Hyderabad,Tire puncture,Tire,Delay
+6,2026-02-14,336,Operator 87,Indore - Mumbai,Broken alternator belt,Alternator,Delay
+7,2026-02-14,1695,Operator 41,Pune - Nagpur,Pickup issue,Acceleration,Delay
+8,2026-02-14,698,Operator 10,Vijayawada - Bangalore,AC Not working,AC,Delay
+9,2026-02-14,740,Operator 39,Bangalore - Chennai,AC Failure,AC,Partially Cancelled
+1,2026-02-15,410,Operator 41,Gorakhpur - Delhi,Accident,Accident,Cancelled
+2,2026-02-15,404,Operator 81,Bangalore - Madurai,Diesel pipe got blocked,Fuel,Cancelled
+3,2026-02-15,767,Operator 54,Vijayawada - Bangalore,Engine starting issue,Engine,Delay
+4,2026-02-15,802,Operator 41,Kanpur - Delhi,Speed got locked at 20 km/hr,Acceleration,Delay
+1,2026-02-16,1872,Operator 31,Bangalore - Nellore,Sensor issue.,Sensor,Delay
+2,2026-02-16,579,Operator 88,Chennai - Coimbatore,Mechanical issue (?),Miscelleanous,Cancelled
+3,2026-02-16,1092,Operator 80,Chennai - Trichy,AC issue. Resolved.,AC,Delay
+1,2026-02-17,1134,Operator 34,Trichy - Chennai,AC issue,AC,Delay
+2,2026-02-17,767,Operator 54,Vijayawada - Bangalore,Engine starting issue,Engine,Cancelled
+3,2026-02-17,1473,Operator 92,Hyderabad - Eluru,AC failure,AC,Alternate
+4,2026-02-17,465,Operator 93,Hyderabad - Viskhapatnam,Dynamo issue,Suspension,Alternate
+5,2026-02-17,171,Operator 15,Delhi - Kanpur,Not picking up speed,Acceleration,Alternate
+6,2026-02-17,1503,Operator 94,Trichy - Bangalore,AC issue,AC,Delay
+7,2026-02-17,910,Operator 57,Delhi - Katra,Diesel pipe burst,Fuel,Cancelled
+8,2026-02-17,1459,Operator 92,Tirupati - Hyderabad,Turbo pipe cut,Acceleration,Delay
+9,2026-02-17,450,Operator 26,Chennai - Coimbatore,Accident,Accident,Partially Cancelled
+1,2026-02-18,425,Operator 73,Bangalore - Hyderabad,AC breakdown due to compressor issue,AC,Cancelled
+2,2026-02-18,690,Operator 16,Mumbai - Goa,Clutch issue. Cancelled,Clutch,Cancelled
+3,2026-02-18,434,Operator 56,Mumbai - Goa,AC issue,AC,Delay
+4,2026-02-18,1490,Operator 7,Pune - Latur,Tire burst,Tire,Delay
+5,2026-02-18,580,Operator 88,Coimbatore - Chennai,Smoke. Diesel leakage,Fuel,Cancelled
+6,2026-02-18,1092,Operator 80,Chennai - Trichy,AC Not working,AC,Inconvenience
+1,2026-02-19,360,Operator 27,Kakinada - Hyderabad,AC Failure,AC,Cancelled
+2,2026-02-19,1887,Operator 47,Trichy - Bangalore,Invertor issue,Invertor,Delay
+3,2026-02-19,1028,Operator 93,Rajamundry - Hyderabad,Accident,Accident,Cancelled
+4,2026-02-19,1874,Operator 94,Bangalore - Chennai,Tire puncture,Tire,Delay
+5,2026-02-19,972,Operator 66,Nagpur - Pune,Tire puncture,Tire,Delay
+6,2026-02-19,1407,Operator 82,Chennai - Tirunelveli,Tire puncture,Tire,Delay
+7,2026-02-19,1926,Operator 80,Trichy - Chennai,AC Failure,AC,Alternate
+8,2026-02-19,733,Operator 66,Goa - Pune,Tire puncture,Tire,Delay
+9,2026-02-19,1168,Operator 94,Bangalore - Nellore,Tire puncture,Tire,Delay
+10,2026-02-19,698,Operator 10,Vijayawada - Bangalore,Gear Box issue,Gear Box,Cancelled
+11,2026-02-19,1677,Operator 6,Gurgaon - Lucknow,Driver feeling sleepy. Collision. Driver fled,Staff,Cancelled
+12,2026-02-19,1542,Operator 73,Pondichery - Bangalore,Driver did not know the dropping points.,Staff,Delay
+13,2026-02-19,295,Operator 101,Chennai - Nagercoil,Accleeration issue.  Turbo hose problem,Acceleration,Delay
+14,2026-02-19,177,Operator 20,Pathankot - Delhi,Bus rammed toll plaza,Accident,Delay
+15,2026-02-19,449,Operator 94,Nellore - Bangalore,Accident,Accident,Cancelled
+16,2026-02-19,1923,Operator 65,Hyderabad - Kakinada,Pickup issue,Acceleration,Cancelled
+1,2026-02-20,1251,Operator 12,Chennai - Vijayawada,AC problem,AC,Delay
+2,2026-02-20,568,Operator 93,Bangalore - Chennai,Brake issue,Brake,Cancelled
+3,2026-02-20,740,Operator 39,Bangalore - Chennai,AC problem,AC,Delay
+4,2026-02-20,1889,Operator 51,Lucknow - Gurgaon,Main engine drive belt broken,Engine,Cancelled
+5,2026-02-20,39,Operator 57,Delhi - Manali,AC Not working,AC,Inconvenience
+6,2026-02-20,200,Operator 100,Guntur - Hyderabad,Clutch pipe leakage,Clutch,Cancelled
+7,2026-02-20,818,Operator 31,Bangalore - Hyderabad,Tire puncture,Tire,Delay
+8,2026-02-20,1462,Operator 3,Gurgaon - Lucknow,AC issue,AC,Delay
+9,2026-02-20,1546,Operator 92,Hyderabad - Bhimavaram,Smoke from engine. FDSS Alarm,Engine,Delay
+10,2026-02-20,1458,Operator 92,Hyderabad - Tirupati,Passenger side glass broken,Miscelleanous,Delay
+11,2026-02-20,403,Operator 81,Madurai - Bangalore,Pickup issue,Acceleration,Cancelled
+12,2026-02-20,1576,Operator 73,Bangalore - Nellore,Accident,Accident,Cancelled
+13,2026-02-20,1484,Operator 6,Gurgaon - Gorakhpur,Clutch plate worn out,Clutch,Cancelled
+14,2026-02-20,815,Operator 103,Amritsar - Gurgaon,Accident,Accident,Cancelled
+15,2026-02-20,1548,Operator 10,Hyderabad - Machalipatnam,Smoke inside the bus,Engine,Cancelled
+16,2026-02-20,1924,Operator 65,Kakinada - Hyderabad,RPM/Pickup issue,Acceleration,Partially Cancelled
+17,2026-02-20,545,Operator 83,Mumbai - Indore,Accident. Bus rubbed a car,Accident,Delay
+1,2026-02-21,1872,Operator 31,Bangalore - Nellore,"Washroom issue, Bus wiring",Miscelleanous,Inconvenience
+2,2026-02-21,714,Operator 54,Hyderabad - Vijayawada,Clutch air pipe leakage,Clutch,Cancelled
+3,2026-02-21,1625,Operator 93,Pondichery - Bangalore,Tire puncture. No jack,Tire,Delay
+4,2026-02-21,767,Operator 54,Vijayawada - Hyderabad,Pickup issue,Acceleration,Cancelled
+5,2026-02-21,1693,Operator 7,Pune - Goa,Pipe leakage issue,Engine,Cancelled
+6,2026-02-21,935,Operator 10,Vijayawada - Hyderabad,Battery issue,Battery,Cancelled
+7,2026-02-21,1549,Operator 10,Machalipatnam - Hyderabad,Mechanical issue (?),Miscelleanous,Delay
+8,2026-02-21,895,Operator 34,Chennai - Nagercoil,Pickup issue. Turbo pipe changed,Acceleration,Delay
+9,2026-02-21,1543,Operator 31,Bangalore - Trichy,Bus AC Failure,AC,Delay
+10,2026-02-21,1168,Operator 94,Bangalore - Nellore,Accident,Accident,Delay
+11,2026-02-21,327,Operator 83,Goa - Mumbai,"Overheating, Pipe Leakage",Engine,Delay
+12,2026-02-21,281,Operator 26,Coimbatore - Chennai,Tire puncture,Tire,Delay
+13,2026-02-21,541,Operator 93,Hyderabad - Chennai,Clutch not working. Cancelled,Clutch,Cancelled
+14,2026-02-21,259,Operator 93,Chennai - Hyderabad,DEF/DCR system fault,Miscelleanous,Partially Cancelled
+1,2026-02-22,1047,Operator 92,Hyderabad - Bangalore,AITP Tax issue,Miscelleanous,Cancelled
+2,2026-02-22,660,Operator 92,Hyderabad - Bangalore,Accident,Accident,Delay
+3,2026-02-22,231,Operator 59,Hyderabad - Bangalore,Starting issue at the parking lot,Engine,Delay
+4,2026-02-22,1616,Operator 94,Bangalore - Ernakulam,Engine issue,Engine,Cancelled
+5,2026-02-22,733,Operator 66,Goa - Pune,Tire puncture,Tire,Delay
+6,2026-02-22,491,Operator 41,Goa - Pune,Pickup issue,Acceleration,Delay
+7,2026-02-22,542,Operator 93,Chennai - Hyderabad,Bus Pickup issue,Acceleration,Delay
+8,2026-02-22,418,Operator 66,Goa - Pune,Tire puncture,Tire,Delay
+9,2026-02-22,259,Operator 93,Chennai - Hyderabad,Checklist problem (?),Miscelleanous,Delay
+1,2026-02-23,406,Operator 50,Amritsar - Delhi,Tire puncture,Tire,Delay
+2,2026-02-23,252,Operator 34,Bangalore - Pondichery,Sleepy Driver,Staff,Delay
+3,2026-02-23,570,Operator 16,Goa - Mumbai,Accident,Accident,Delay
+4,2026-02-23,744,Operator 66,Pune - Goa,Clutch issue,Clutch,Partially Cancelled
+1,2026-02-24,232,Operator 59,Bangalore - Hyderabad,Did not return back from showroom,Miscelleanous,Cancelled
+2,2026-02-24,781,Operator 88,Chennai - Hyderabad,Accident,Accident,Delay
+3,2026-02-24,972,Operator 66,Nagpur - Pune,Breakdown (?). ,,
+4,2026-02-24,821,Operator 88,Bangalore - Chennai,Engine issue,Engine,Cancelled
+5,2026-02-24,283,Operator 13,Coimbatore - Chennai,Tire burst. No jack,Tire,Delay
+6,2026-02-24,1875,Operator 94,Chennai - Bangalore,Tire burst,Tire,Delay
+7,2026-02-24,1500,Operator 12,Chennai - Thanjavur,Accident,Accident,Delay
+1,2026-02-25,1541,Operator 73,Bangalore - Pondichery,AC issue,AC,Delay
+2,2026-02-25,1576,Operator 73,Bangalore - Nellore,AC issue,AC,Cancelled
+3,2026-02-25,1404,Operator 36,Pune - Ahmedabad,Tire puncture,Tire,Delay
+4,2026-02-25,983,Operator 73,Belgaum - Bangalore,Accident,Accident,Partially Cancelled
+5,2026-02-25,783,Operator 89,Bangalore - Chennai,Diesel leakage ,Fuel,Cancelled
+6,2026-02-25,1887,Operator 47,Trichy - Bangalore,Accident,Accident,Delay
+7,2026-02-25,1105,Operator 66,Goa - Pune,Tire puncture,Tire,Delay
+1,2026-02-26,821,Operator 88,Bangalore - Chennai,Hose pipe issue,Fuel,Cancelled
+2,2026-02-26,934,Operator 10,Hyderabad - Vijayawada,Brake disc wheel cut issue,Brake,Delay
+3,2026-02-26,425,Operator 73,Bangalore - Hyderabad,Dynamo issue,Acceleration,Cancelled
+4,2026-02-26,1192,Operator 81,Hyderabad - Guntur,AC Failure. Ran without AC,AC,Inconvenience
+5,2026-02-26,1515,Operator 41,Pune - Amravati,Booster nuts were loose,Miscelleanous,Delay
+6,2026-02-26,434,Operator 56,Goa - Mumbai,Bus leaf spring plates broken,Brake,Cancelled
+7,2026-02-26,733,Operator 66,Goa - Pune,Accident,Accident,Delay
+8,2026-02-26,1292,Operator 103,Jalandhar  Gurgaon,Vaccum Air Leakage issue,Acceleration,Cancelled
+9,2026-02-26,1689,Operator 7,Nanded - Pune,Tire puncture,Tire,Delay
+10,2026-02-26,210,Operator 6,Varanasi - Delhi,Acceleration,Acceleration,Delay
+1,2026-02-27,1679,Operator 54,Nellore - Hyderabad,Engine smoke,Engine,Cancelled
+2,2026-02-27,876,Operator 5,Lucknow - Delhi,Women accused cleaner of touching her,Staff,Delay
+3,2026-02-27,1448,Operator 73,Bangalore - Mangalore,AC issue. Ran without AC,AC,Inconvenience
+4,2026-02-27,875,Operator 5,Delhi - Lucknow,Accident,Accident,Delay
+5,2026-02-27,1028,Operator 93,Rajamundry - Hyderabad,Accident,Accident,Cancelled
+6,2026-02-27,1543,Operator 31,Bangalore - Trichy,Tire issue. No spare tire,Tire,Delay
+1,2026-02-28,1152,Operator 103,Delhi - Katra,Police seized the bus,Miscelleanous,Cancelled
+2,2026-02-28,663,Operator 39,Bangalore - Chennai,Accident,Accident,Delay
+3,2026-02-28,1494,Operator 101,Ernakulam - Bangalore,Accident,Accident,Cancelled
+4,2026-02-28,1857,Operator 93,Pune - Hyderabad,Accident,Accident,Delay
+5,2026-02-28,1028,Operator 93,Rajamundry - Hyderabad,Smoke in the cabin,Engine,Cancelled
+6,2026-02-28,802,Operator 20,Kanpur - Delhi,AC issue. Ran without AC,AC,Inconvenience
+7,2026-02-28,1330,Operator 27,Hyderabad - Nellore,Smoke coming from silencer,Engine,Cancelled
+8,2026-02-28,398,Operator 39,Chennai - Bangalore,Captain & helper argument,Staff,Delay
+9,2026-02-28,874,Operator 1,Chennai - Bangalore,Captain making issue,Staff,Delay
+10,2026-02-28,816,Operator 103,Gurgaon - Amritsar,Bus engine overheated,Engine,Cancelled
+1,2026-03-01,1139,Operator 27,Hyderabad - Rajamundry,AC Belt issue,AC,Delay
+2,2026-03-01,978,Operator 43,Gurgaon - Lucknow,Pickup issue,Acceleration,Cancelled
+3,2026-03-01,1473,Operator 92,Hyderabad - Eluru,Accident,Accident,Delay
+4,2026-03-01,767,Operator 54,Vijayawada - Hyderabad,Bus starting issue; smoke on the way,Battery and Starting Issue,Cancelled
+5,2026-03-01,567,Operator 93,Chennai - Bangalore,AC Failure,AC,Delay
+6,2026-03-01,960,Operator 16,Indore - Mumbai,Battery issue ,Battery and Starting Issue,Cancelled
+7,2026-03-01,448,Operator 94,Bangalore - Nellore,Tire puncture (twice),Tire,Delay
+8,2026-03-01,1168,Operator 94,Bangalore - Nellore,Tire Burst (no jack),Tire,Delay
+9,2026-03-01,1292,Operator 103,Jalandhar - Gurgaon,Hose pipe burst,Acceleration,Cancelled
+10,2026-03-01,1490,Operator 7,Pune - Latur,Pipe Leakage issue,Acceleration,Cancelled
+11,2026-03-01,450,Operator 26,Chennai - Coimbatore,Joint load cut,Miscelleanous,Cancelled
+1,2026-03-02,1445,Operator 1,Chennai - Hyderabad,Glass broken,Miscelleanous,Delay
+2,2026-03-02,1106,Operator 66,Pune - Goa,Tire puncture,Tire,Delay
+3,2026-03-02,1408,Operator 82,Tirunelveli - Chennai,Sensor issue,Sensor,Delay
+4,2026-03-02,490,Operator 41,Pune - Goa,AC issue,AC,Delay
+5,2026-03-02,226,Operator 81,Hyderabad - Bangalore,AC issue. Ran without AC,AC,Inconvenience
+6,2026-03-02,2002,Operator 69,Madurai - Bangalore,AC Failure. Smoke smell,AC,Cancelled
+7,2026-03-02,109,Operator 45,Madurai - Chennai,Accident,Accident,Partially Cancelled
+8,2026-03-02,911,Operator 57,Katra - Delhi,Electrical Failure,Engine,Cancelled
+1,2026-03-03,1458,Operator 92,Hyderabad - Tirupati,AC Failure,AC,Delay
+2,2026-03-03,490,Operator 41,Pune - Goa,Pickup issue,Acceleration,Delay
+3,2026-03-03,1463,Operator 3,Lucknow - Gurgaon,Bus breakdown (?),Miscelleanous,Cancelled
+4,2026-03-03,1445,Operator 1,Chennai - Hyderabad,Tire Burst,Tire,Delay
+5,2026-03-03,401,Operator 57,Delhi - Gorakhpur,Both front tire burst,Tire,Cancelled
+6,2026-03-03,1148,Operator 94,Bangalore - Ernakulam,Silencer problem. Loud noise,Miscelleanous,Delay
+1,2026-03-04,1734,Operator 31,Kozhikode - Bangalore,Accident. Bus ran into building. Driver left,Accident,Cancelled
+2,2026-03-04,258,Operator 93,Hyderabad - Chennai,Tire puncture,Tire,Delay
+3,2026-03-04,540,Operator 93,Vijayawada - Chennai,AC Failure,AC,Cancelled
+4,2026-03-04,1566,Operator 93,Chennai - Bangalore,Bus battery fuse failure,Battery and Starting Issue,Delay
+5,2026-03-04,231,Operator 59,Hyderabad - Bangalore,Tire puncture,Tire,Delay
+6,2026-03-04,491,Operator 41,Goa - Pune,Speed issue,Acceleration,Delay
+7,2026-03-04,1515,Operator 41,Pune - Amravati,Ball point issue,Miscelleanous,Cancelled
+8,2026-03-04,690,Operator 16,Mumbai - Goa,Pickup issue,Acceleration,Cancelled
+1,2026-03-05,1463,Operator 3,Lucknow - Gurgaon,Engine overheating,Engine,Cancelled
+2,2026-03-05,920,Operator 48,Gurgaon - Amritsar,RTO,Miscelleanous,Cancelled
+3,2026-03-05,276,Operator 73,Ernakulam - Bangalore,AC Failure. Dynamo issue,AC,Cancelled
+4,2026-03-05,714,Operator 54,Hyderabad - Vijayawada,Accident,Accident,Delay
+5,2026-03-05,816,Operator 103,Gurgaon - Amritsar,Acceleration,Acceleration,
+6,2026-03-05,790,Operator 1,Tirumangalam - Chennai,Turbo hose pipe burst,Miscelleanous,Delay
+7,2026-03-05,451,Operator 26,Coimbatore - Chennai,Bus breakdown (?),Miscelleanous,Cancelled
+8,2026-03-05,281,Operator 26,Coimbatore - Chennai,Tire issue. Spare was not good.,Tire,Delay
+1,2026-03-06,1917,Operator 65,Hyderabad - Rajamundry,Clutch issue,Clutch,Delay
+2,2026-03-06,362,Operator 1,Tiruchendur - Chennai,AC Not working,AC,Delay
+3,2026-03-06,1408,Operator 82,Tirunelveli - Chennai,Sensor issue,Sensor,Delay
+4,2026-03-06,1550,Operator 57,Delhi - Jalandhar,Tire burst,Tire,Cancelled
+5,2026-03-06,572,Operator 88,Madurai - Chennai,Front wheel leakage,Miscelleanous,Cancelled
+6,2026-03-06,1407,Operator 82,Chennai - Tirunelveli,Sensor,Sensor,Delay
+7,2026-03-06,1811,Operator 93,Eluru - Hyderabad,Breakdown (?). ,Miscelleanous,Cancelled
+1,2026-03-07,740,Operator 39,Bangalore - Chennai,Drunk passenger issue,Miscelleanous,Delay
+2,2026-03-07,1374,Operator 69,Madurai - Chennai,Accident,Accident,Delay
+3,2026-03-07,1991,Operator 62,Guntur - Hyderabad,Driver issue,Staff,Delay
+4,2026-03-07,408,Operator 71,Goa - Bangalore,Starter problem,Battery and Starting Issue,Cancelled
+5,2026-03-07,546,Operator 83,Indore - Mumbai,AC issue,AC,Delay
+6,2026-03-07,912,Operator 99,Hyderabad - Guntur,Smoke from engine. ,Engine,Cancelled
+7,2026-03-07,982,Operator 73,Bangalore - Belgaum,Tire puncture,Tire,Delay
+8,2026-03-07,960,Operator 16,Indore - Mumbai,Accident,Accident,Cancelled
+9,2026-03-07,213,Operator 93,Chennai - Bangalore,Accident,Accident,Cancelled
+10,2026-03-07,1689,Operator 7,Nanded - Pune,Accident,Accident,Cancelled
+1,2026-03-08,976,Operator 46,Hyderabad - Pune,Pickup issue,Acceleration,Delay
+2,2026-03-08,1734,Operator 31,Kozhikode - Bangalore,Accident,Accident,Delay
+3,2026-03-08,1991,Operator 62,Guntur - Hyderabad,AC not working,AC,Cancelled
+4,2026-03-08,166,Operator 8,Bangalore - Vijayawada,Tire puncture,Tire,Delay
+5,2026-03-08,1960,Operator 44,Chennai - Thanjavur,AC not working,AC,
+6,2026-03-08,1192,Operator 81,Hyderabad - Guntur,AC Failure,AC,Delay
+7,2026-03-08,1885,Operator 36,Ahmedabad - Pune,Tire puncture,Tire,Delay
+8,2026-03-08,964,Operator 66,Nagpur - Pune,Pickup issue,Acceleration,Delay
+9,2026-03-08,1361,Operator 93,Hyderabad - Tenali,Stopped and not starting,Battery and Starting Issue,Delay
+10,2026-03-08,1007,Operator 41,Pune - Indore,Tire puncture,Tire,Delay
+11,2026-03-08,1005,Operator 66,Goa - Pune,Tire puncture,Tire,Delay
+12,2026-03-08,1565,Operator 93,Bangalore - Chennai,Light and power was very low,Battery and Starting Issue,Delay
+1,2026-03-09,1144,Operator 54,Nellore - Hyderabad,Pickup issue,Acceleration,Cancelled
+2,2026-03-09,815,Operator 103,Amritsar - Gurgaon,Air pressure leak,Acceleration,Cancelled
+3,2026-03-09,827,Operator 27,Hyderabad - Viskhapatnam,Sensor issue. Running slow,Acceleration,
+4,2026-03-09,690,Operator 16,Mumbai - Goa,Sensor issue. Running slow,Acceleration,Cancelled
+5,2026-03-09,473,Operator 39,Pollachi - Chennai,Tire puncture,Tire,Delay
+6,2026-03-09,1105,Operator 66,Goa - Pune,Tire puncture,Tire,Delay
+1,2026-03-10,1617,Operator 94,Ernakulam - Bangalore,Accident,Accident,Delay
+2,2026-03-10,354,Operator 67,Mumbai - Goa,Mechanical issue (?),Miscelleanous,Cancelled
+3,2026-03-10,1174,Operator 47,Bangalore - Madurai,Lights not working,Invertor,Delay
+4,2026-03-10,352,Operator 58,Hyderabad - Nellore,AC Failure,AC,Delay
+5,2026-03-10,212,Operator 93,Bangalore - Chennai,Glass change,Miscelleanous,Delay
+6,2026-03-10,253,Operator 31,Pondichery - Bangalore,AC. Ran without AC,AC,Inconvenience
+7,2026-03-10,814,Operator 57,Jalandhar - Delhi,AC issue,AC,Alternate
+8,2026-03-10,1551,Operator 57,Jalandhar - Delhi,Electrical Failure,Battery and Starting Issue,Delay
+1,2026-03-11,353,Operator 58,Nellore - Hyderabad,AC Bus Pipe leakage,AC,Delay
+2,2026-03-11,1679,Operator 54,Nellore - Hyderabad,Pickup down & Black smoke,Engine,Cancelled
+3,2026-03-11,411,Operator 39,Bangalore - Chennai,AC problem,AC,Delay
+4,2026-03-11,708,Operator 92,Hyderabad - Tirupati,Tire puncture,Tire,Delay
+5,2026-03-11,895,Operator 34,Nagercoil - Chennai,Mechanical issue (?),Miscelleanous,Cancelled
+6,2026-03-11,596,Operator 93,Goa - Hyderabad,Pickup issue,Acceleration,Cancelled
+7,2026-03-11,374,Operator 57,Katra - Delhi,Acceleration issue,Acceleration,Delay
+8,2026-03-11,1463,Operator 3,Lucknow - Gurgaon,Noise from engine. White smoke,Engine,Cancelled
+9,2026-03-11,1849,Operator 40,Nellore - Hyderabad,Gear Box issue,Gear Box,Delay
+1,2026-03-12,1617,Operator 94,Ernakulam - Bangalore,AC Failure,AC,Inconvenience
+2,2026-03-12,1546,Operator 92,Hyderabad - Bhimavaram,Power supply issue,Battery and Starting Issue,Delay
+3,2026-03-12,1960,Operator 44,Chennai - Thanjavur,AC issue,AC,Delay
+4,2026-03-12,1192,Operator 81,Hyderabad - Guntur,Accident,Accident,Delay
+5,2026-03-12,714,Operator 54,Hyderabad - Vijayawada,Radiator water leakage,Radiator,Cancelled
+6,2026-03-12,543,Operator 93,Chennai - Bangalore,Tire puncture. Spare tire not good,Tire,Delay
+7,2026-03-12,1370,Operator 4,Mumbai - Hyderabad,Brake air issue,Brake,Delay
+8,2026-03-12,398,Operator 39,Chennai - Bangalore,AC Belt was cut,AC,Inconvenience
+9,2026-03-12,92,Operator 32,Bangalore - Madurai,Tire puncture,Tire,Delay
+10,2026-03-12,414,Operator 39,Chennai - Bangalore,Silencer issue,Miscelleanous,Cancelled
+11,2026-03-12,397,Operator 39,Bangalore - Chennai,Brake failure,Brake,Partially Cancelled
+12,2026-03-12,398,Operator 39,Chennai - Bangalore,AC issue,AC,Cancelled
+13,2026-03-12,771,Operator 92,Hyderabad - Pune,Tire puncture,Tire,Delay
+1,2026-03-13,404,Operator 81,Bangalore - Madurai,Engine issue,Engine,Cancelled
+2,2026-03-13,252,Operator 31,Bangalore - Pondichery,Rude driver issue,Staff,Delay
+3,2026-03-13,1874,Operator 94,Bangalore - Chennai,Diesel filling issue,Fuel,Delay
+4,2026-03-13,253,Operator 31,Pondichery - Bangalore,AC Belt sound,AC,Delay
+5,2026-03-13,1192,Operator 81,Hyderabad - Guntur,Driver unavailability,Staff,Delay
+6,2026-03-13,882,Operator 73,Madurai - Bangalore,RTO - Customs issue,Miscelleanous,Cancelled
+7,2026-03-13,1810,Operator 93,Hyderabad - Eluru,Driver unavailability,Staff,Delay
+8,2026-03-13,1361,Operator 93,Hyderabad - Tenali,Showroom maintenance delay,Miscelleanous,Delay
+9,2026-03-13,1139,Operator 54,Hyderabad - Rajamundry,Ex employee stopped bus ,Staff,Delay
+10,2026-03-13,359,Operator 27,Hyderabad - Kakinada,Ex employee stopped bus ,Staff,Delay
+11,2026-03-13,1528,Operator 15,Indore - Ahmedabad,Driver failed alchohol test,Staff,Delay
+12,2026-03-13,1908,Operator 84,Bangalore - Nellore,Vaccum Leakage,Miscelleanous,Delay
+13,2026-03-13,1884,Operator 36,Pune - Ahmedabad,Accident,Accident,Delay
+14,2026-03-13,1490,Operator 7,Pune - Latur,Short circuit ,Engine,Delay
+15,2026-03-13,212,Operator 93,Bangalore - Chennai,AC issue. Ran without AC,AC,Inconvenience
+16,2026-03-13,1351,Operator 94,Trichy - Bangalore,AC Belt damaged,AC,Delay
+17,2026-03-13,253,Operator 31,Pondichery - Bangalore,Tax not paid,Miscelleanous,Delay
+18,2026-03-13,253,Operator 31,Pondichery - Bangalore,AC Belt cut,AC,Inconvenience
+1,2026-03-14,326,Operator 83,Mumbai - Goa,Alternator isue,Alternator,Delay
+2,2026-03-14,474,Operator 27,Hyderabad - Goa,Tire puncture,Tire,Delay
+3,2026-03-14,2021,Operator 9,Pollachi - Chennai,AC issue. Ran without AC,AC,Inconvenience
+4,2026-03-14,1987,Operator 94,Ernakulam - Chennai,Tire puncture,Tire,Delay
+5,2026-03-14,971,Operator 66,Pune - Nagpur,Gear Box issue,Gear Box,Partially Cancelled
+6,2026-03-14,1072,Operator 20,Pathankot - Delhi,Unable to start,Battery and Starting Issue,Cancelled
+7,2026-03-14,544,Operator 93,Bangalore - Chennai,Tire puncture,Tire,Delay
+8,2026-03-14,969,Operator 66,Pune - Nagpur,Pickup issue,Acceleration,Cancelled
+9,2026-03-14,212,Operator 93,Bangalore - Chennai,Accident,Accident,Cancelled
+1,2026-03-15,577,Operator 99,Guntur - Hyderabad,Breakdown (?). ,Miscelleanous,Cancelled
+2,2026-03-15,939,Operator 99,Guntur - Vishakhapatnam,AC issue. Ran without AC,AC,Inconvenience
+3,2026-03-15,579,Operator 88,Chennai - Coimbatore,Driver & Customer cabin lights off,Battery and Starting Issue,Inconvenience
+4,2026-03-15,435,Operator 56,Goa - Mumbai,AC Cooling isue,AC,Delay
+5,2026-03-15,670,Operator 39,Madurai - Chennai,Brake issue,Brake,Cancelled
+6,2026-03-15,1600,Operator 13,Coimbatore - Bangalore,Accident,Accident,Delay
+7,2026-03-15,1290,Operator 54,Bangalore - Vijayawada,AC issue. Ran without AC,AC,Inconvenience
+8,2026-03-15,2012,Operator 53,Delhi - Indore,Pressure Pipe broken,Acceleration,Delay
+9,2026-03-15,1901,Operator 47,Ernakulam - Bangalore,Accident,Accident,Delay
+10,2026-03-15,1415,Operator 23,Vijayawada - Bangalore,Accident,Accident,Delay
+1,2026-03-16,852,Operator 5,Delhi - Lucknow,AC fan belt was broken,AC,Inconvenience
+2,2026-03-16,571,Operator 88,Chennai - Madurai,Front air suspension balloon issue,Suspension,Delay
+1,2026-03-17,904,Operator 5,Delhi - Amritsar,Pressure pipe cut.,Acceleration,Delay
+2,2026-03-17,728,Operator 19,Chennai - Madurai,AC cooling problem,AC,Cancelled
+3,2026-03-17,1285,Operator 53,Pune - Hyderabad,Accident,Accident,Cancelled
+4,2026-03-17,398,Operator 39,Chennai - Bangalore,Cluctch & Gear Box isue,Gear Box,Cancelled
+5,2026-03-17,1153,Operator 103,Katra - Delhi,Tire rod broken,Tire,Cancelled
+1,2026-03-18,831,Operator 10,Bangalore - Hyderabad,Battery issue ,Battery and Starting Issue,Cancelled
+2,2026-03-18,365,Operator 103,Delhi - Katra,Helper side air balloon burst,Suspension,Delay
+3,2026-03-18,935,Operator 10,Vijayawada - Hyderabad,AC Belt cut,AC,Delay
+4,2026-03-18,1089,Operator 76,Gorakhpur - Delhi,AC Not working. Ran without AC,AC,Inconvenience
+5,2026-03-18,1193,Operator 81,Guntur - Hyderabad,Headlights not working,Battery and Starting Issue,Delay
+6,2026-03-18,1962,Operator 6,Gurgaon - Kanpur,Bus not starting,Battery and Starting Issue,Cancelled
+7,2026-03-18,1277,Operator 43,Lucknow - Gurgaon,Acceleration issue,Acceleration,Cancelled
+8,2026-03-18,974,Operator 46,Pune - Hyderabad,Acceleration issue,Acceleration,Cancelled
+9,2026-03-18,1414,Operator 23,Bangalore - Vijayawada,AC Not working. Ran without AC,AC,Inconvenience
+10,2026-03-18,790,Operator 1,Madurai - Chennai,Engine belt cut,Engine,Cancelled
+11,2026-03-18,39,Operator 57,Delhi - Manali,Tire puncture (twice),Tire,Delay
+12,2026-03-18,767,Operator 54,Vijayawada - Hyderabad,Pickup issue,Acceleration,Cancelled
+13,2026-03-18,390,Operator 1,Coimbatore - Chennai,Accident,Accident,Cancelled
+14,2026-03-18,520,Operator 83,Mumbai - Indore,Radiator leakage issue,Radiator,Delay
+1,2026-03-19,1164,Operator 22,Vijayawada - Bangalore,Dynamo issue,Acceleration,Cancelled
+2,2026-03-19,796,Operator 84,Hyderabad - Bangalore,Gear Box issue,Gear Box,Cancelled
+3,2026-03-19,896,Operator 34,Nagercoil - Chennai,AC Cooling issue,AC,Inconvenience
+4,2026-03-19,1305,Operator 10,Tirupati - Hyderabad,Brake issue,Brake,Delay
+5,2026-03-19,1486,Operator 39,Chennai - Eluru,Tire puncture,Tire,Delay
+6,2026-03-19,182,Operator 63,Chennai - Coimbatore,Interior lights not working,Battery and Starting Issue,Inconvenience
+7,2026-03-19,280,Operator 26,Chennai - Coimbatore,Tire puncture,Tire,Delay
+8,2026-03-19,1035,Operator 45,Chennai - Madurai,Accident,Accident,Cancelled
+9,2026-03-19,854,Operator 91,Delhi - Kanpur,Both tires burst. Bolts could not be opened,Tire,Cancelled
+10,2026-03-19,274,Operator 39,Bangalore - Chennai,Sensor issue. Low speed,Sensor,Partially Cancelled
+1,2026-03-20,881,Operator 73,Bangalore - Madurai,Tax not paid,Miscelleanous,Delay
+2,2026-03-20,277,Operator 73,Bangaore - Ernakulam,Tax not paid,Miscelleanous,Delay
+3,2026-03-20,979,Operator 6,Lucknow - Gurgaon,Bus stuck in mud,Miscelleanous,Delay
+4,2026-03-20,1282,Operator 81,Tirupati - Hyderabad,Brake issue.,Brake,Delay
+5,2026-03-20,282,Operator 13,Chennai - Coimbatore,Accident,Accident,Cancelled
+6,2026-03-20,1489,Operator 24,Nagpur - Pune,AC Failure.,AC,Inconvenience
+7,2026-03-20,533,Operator 14,Dehradun - Delhi,Alternator issue. Dead Battery,Battery and Starting Issue,Cancelled
+8,2026-03-20,895,Operator 34,Chennai - Nagercoil,Hose pipe burst,Acceleration,Cancelled
+1,2026-03-21,1448,Operator 73,Bangalore - Mangalore,Vaccum Leakage,Acceleration,Delay
+2,2026-03-21,982,Operator 73,Bangalore - Belgaum,High temperature,Engine,Cancelled
+3,2026-03-21,1542,Operator 73,Pondichery - Bangalore,Accident. Side glass broken,Accident,Delay
+4,2026-03-21,1870,Operator 47,Bangalore - Chennai,Accident,Accident,Delay
+5,2026-03-21,1192,Operator 81,Hyderabad - Guntur,Tire Burst,Tire,Delay
+6,2026-03-21,770,Operator 66,Goa - Pune,Accident,Accident,Delay
+7,2026-03-21,1153,Operator 103,Katra - Delhi,Bearing bolt broken,Miscelleanous,Cancelled
+8,2026-03-21,336,Operator 86,Indore - Mumbai,Back rear side differential broken,Miscelleanous,Cancelled
+1,2026-03-22,896,Operator 34,Nagercoil - Chennai,"Pickup issue, went to service center",Acceleration,Cancelled
+2,2026-03-22,1565,Operator 93,Bangalore - Chennai,Drunk driver,Staff,Cancelled
+3,2026-03-22,252,Operator 93,Bangalore - Pondichery,Accident,Accident,Delay
+4,2026-03-22,1689,Operator 7,Nanded - Pune,Tire puncture,Tire,Delay
+5,2026-03-22,1289,Operator 54,Bangalore - Vijayawada,Tire puncture,Tire,Delay
+6,2026-03-22,1936,Operator 42,Coimbatore - Bangalore,Fastag low balance,Miscelleanous,Delay
+7,2026-03-22,1935,Operator 42,Bangalore - Coimbatore,Fastag low balance,Miscelleanous,Delay
+8,2026-03-22,490,Operator 41,Pune - Goa,Bus balance rod broken,Suspension,Delay
+9,2026-03-22,1938,Operator 102,Bangalore - Madurai,Accident,Accident,Cancelled
+10,2026-03-22,520,Operator 83,Mumbai - Indore,AC not working. Pressure pipe torn,AC,Delay
+11,2026-03-22,182,Operator 63,Chennai - Coimbatore,Accident,Accident,Cancelled
+12,2026-03-22,2033,Operator 53,Nagpur - Hyderabad,Gear Box issue,Gear Box,Delay
+13,2026-03-22,2016,Operator 9,Chennai - Coimbatore,Accident,Accident,Delay
+14,2026-03-22,1324,Operator 15,Indore - Mumbai,Tire puncture,Tire,Delay
+15,2026-03-22,1471,Operator 73,Bangalore - Mangalore,Dynamo issue,Suspension,Cancelled
+16,2026-03-22,1168,Operator 94,Bangalore - Nellore,Pickup issue,Acceleration,Cancelled
+17,2026-03-22,1528,Operator 15,Indore - Ahmedabad,Tire puncture,Tire,Delay
+1,2026-03-23,891,Operator 93,Bangalore - Nagercoil,Went to service center,Miscelleanous,Delay
+2,2026-03-23,213,Operator 93,Chennai - Bangalore,Mechanical issue (?),Miscelleanous,Delay
+3,2026-03-23,803,Operator 22,Bangalore - Chennai,Hand brake issue,Brake,Delay
+4,2026-03-23,2016,Operator 9,Chennai - Coimbatore,Heavy smoke from silencer,Miscelleanous,Delay
+5,2026-03-23,1515,Operator 41,Pune - Amravati,Balloon issue,Suspension,Delay
+6,2026-03-23,200,Operator 99,Guntur - Hyderabad,Accident,Accident,Delay
+7,2026-03-23,1527,Operator 15,Ahmedabad - Indore,Staff stopped at Government Bus Stop,Staff,Cancelled
+8,2026-03-23,706,Operator 99,Guntur - Vishakhapatnam,AC not working,AC,Cancelled
+9,2026-03-23,1350,Operator 94,Bangalore - Trichy,AC Not working. Ran without AC,AC,Inconvenience
+1,2026-03-24,698,Operator 11,Vijayawada - Bangalore,Engine oil leakage,Engine,Delay
+2,2026-03-24,434,Operator 56,Mumbai - Goa,Mechanical issue (?),Miscelleanous,Cancelled
+3,2026-03-24,450,Operator 26,Chennai - Coimbatore,Battery problem,Battery and Starting Issue,Delay
+4,2026-03-24,1675,Operator 1,Ernakulam - Chennai,AC Not working. Ran without AC,AC,Cancelled
+5,2026-03-24,1351,Operator 94,Trichy - Bangalore,AC issue,AC,Delay
+6,2026-03-24,771,Operator 92,Hyderabad - Pune,AC Failure,AC,Inconvenience
+7,2026-03-24,596,Operator 93,Goa - Hyderabad,AC Failure,AC,Inconvenience
+8,2026-03-24,92,Operator 32,Bangalore - Madurai,Tire blast,Tire,Cancelled
+1,2026-03-25,686,Operator 81,Hyderabad - Bangalore,Pickup issue,Acceleration,Delay
+2,2026-03-25,1396,Operator 61,Chennai - Vijayawada,Tire puncture,Tire,Delay
+3,2026-03-25,707,Operator 99,Vishakhapatnam - Guntur,AC issue,AC,Delay
+4,2026-03-25,1072,Operator 20,Pathankot - Delhi,Accident,Accident,Delay
+5,2026-03-25,1896,Operator 47,Bangalore - Coimbatore,Accident,Accident,Delay
+6,2026-03-25,953,Operator 16,Mumbai - Indore,Accident,Accident,Delay
+7,2026-03-25,572,Operator 85,Madurai - Chennai,Gear failure,Gear Box,Partially Cancelled
+8,2026-03-25,1206,Operator 34,Tiruchendur - Chennai,Accident,Accident,Cancelled
